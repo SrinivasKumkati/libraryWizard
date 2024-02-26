@@ -1,10 +1,10 @@
-## Library Wizard 📚
+Library Wizard
 
-### Video Demo
+Video Demo
 
 [Demo Link](https://drive.google.com/file/d/1gddUdOE41WaEyY4OWoJtDa0l6VJZTg94/view?usp=sharing)
 
-## Features Of LCMS 🚀
+Features Of LCMS:
 
 - Admin Login and Student Login
 - Admin and Student Dashboard
@@ -14,14 +14,14 @@
 - Reserving a book for specific dates
 - Showing the Achievements, Event Gallery
 
-## Setup 🔥
+Setup:
 
 - Fork the Repo
 
 - Clone the repo to your local machine
   `git clone <repo-url>`
 
-### Frontend Setup 🍧
+Frontend Setup:
 
 1. Get into the chatapp directory
    `cd frontend`
@@ -32,7 +32,7 @@
 
 4. Run `yarn start` to start the application
 
-### Backend Setup 🍿
+Backend Setup:
 
 1. Get into backend directory `cd backend`
 
@@ -44,14 +44,14 @@
 
 5. Run `nodemon server.js` to start the server [Should have installed nodemon globally]
 
-## Technologies 🛠
+Technologies:
 
 - ReactJS[Hooks]
 - NodeJs
 - ExpressJs
 - MongoDB
 
-## Screenshots
+Screenshots:
 
 ![1](https://user-images.githubusercontent.com/73348574/205623377-999c0de5-6796-4100-85e6-96e3e7d4fb77.png)
 ![2](https://user-images.githubusercontent.com/73348574/205632416-bfcc2c19-3f70-4688-bb7e-0ccd83be3038.png)
